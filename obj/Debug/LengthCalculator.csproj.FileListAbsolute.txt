@@ -1,0 +1,10 @@
+C:\Users\ting9\source\repos\LengthCalculator\bin\Debug\LengthCalculator.exe.config
+C:\Users\ting9\source\repos\LengthCalculator\bin\Debug\LengthCalculator.exe
+C:\Users\ting9\source\repos\LengthCalculator\bin\Debug\LengthCalculator.pdb
+C:\Users\ting9\source\repos\LengthCalculator\obj\Debug\LengthCalculator.csproj.AssemblyReference.cache
+C:\Users\ting9\source\repos\LengthCalculator\obj\Debug\LengthCalculator.Form1.resources
+C:\Users\ting9\source\repos\LengthCalculator\obj\Debug\LengthCalculator.Properties.Resources.resources
+C:\Users\ting9\source\repos\LengthCalculator\obj\Debug\LengthCalculator.csproj.GenerateResource.cache
+C:\Users\ting9\source\repos\LengthCalculator\obj\Debug\LengthCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ting9\source\repos\LengthCalculator\obj\Debug\LengthCalculator.exe
+C:\Users\ting9\source\repos\LengthCalculator\obj\Debug\LengthCalculator.pdb
